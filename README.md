@@ -2,6 +2,6 @@
 
 ####RC4 implementation in Assembly for AVR Microcontrollers.
 
-**Key** : priv8 
-**plain­text** : iut91 
-**Encrypted Text** : 0x0C83A7DDD9
+**Key** : priv8 <br>
+**plain­text** : iut91 <br>
+**Encrypted Text** : 0x0C83A7DDD9 <br>
